@@ -13,6 +13,8 @@ I set up a Raspberry Pi 3B+ as a home firewall using IPfire, turning it into a k
 - Hardware: Raspberry pi 3b+, Router , USB to RJ45 , SD Card.
 - Software: IPFire 2.29 (aarch64) , BalenaEtcher(flashing OS)
 
+
+## Numbers
 Speed in: 150 Mbps
 
 Speed out: 90 Mbps (due to lacking hardware)
