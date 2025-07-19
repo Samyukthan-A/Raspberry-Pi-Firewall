@@ -14,9 +14,16 @@ I set up a Raspberry Pi 3B+ as a home firewall using IPfire, turning it into a k
 - Software: IPFire 2.29 (aarch64) , BalenaEtcher(flashing OS)
 
 Speed in: 150 Mbps
+
 Speed out: 90 Mbps (due to lacking hardware)
+
 Active cooling: No (Use time is low)
+
 Avg Temp. : 57 °C
+
 Power supply: 5V at 3A
+
 Memory Used: 221.89 Mb
+
 Cpu Usage: 11.6%
+
